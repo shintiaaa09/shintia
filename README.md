@@ -1,0 +1,2 @@
+# shintia
+Prodi Teknik komputer
